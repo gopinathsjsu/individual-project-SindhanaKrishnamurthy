@@ -14,6 +14,8 @@
   <li> Choose <b>Customer.java</b> and run this file. This is the file containing main().</li>
   <li> User will be prompted to "Enter the file name :" , enter the relevant input file name </li>
   <li> Project will run successfully and the corresponding output.csv or error.txt files will be created in the same project folder structure in the workspace.</li>
+  <li> Please make sure that the hidden files .classpath, .project, .gitignore is also present in the folder structure when downloading the project to local 
+    system. </li>
  
 </ol>
 
