@@ -37,12 +37,14 @@ Two classes implement the each of the corresponding iterators. One of them itera
  <img src = "https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Class%20Diagram/Class_Diagram_Individual_Project.png" width = "900">
  
  <h3> Screenshots </h3>
- <p> The screen shots below capture the terminal output, corresponding output file generated along with the input file. The intermediate screenshots will be seen after these three. </p> 
+ <p> The screen shots below capture the terminal output, corresponding output file generated along with the input file. 
+  The intermediate screenshots of the dataset, credit cards and setting cap can be seen in the screenshots folder. </p> 
  <h4> Input1 - Sheet1.csv </h4> 
  <img src = "https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Screenshots/Output1_Input1.png" width = "700">
  <h4> Input2 - Sheet1.csv </h4>
  <img src ="https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Screenshots/Output2_Input2.png" width ="700">
  <h4> Input3 - Sheet1.csv </h4>
+ <img src = "https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Screenshots/Output3_Input3.png" width = "700">
  
  
  
