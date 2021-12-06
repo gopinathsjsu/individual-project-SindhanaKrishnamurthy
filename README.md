@@ -23,8 +23,27 @@
 We have two interfaces here, one as the iterator and the other one to ierator the entire collection, in this case, the shopping cart of the customer. 
 Two classes implement the each of the corresponding iterators. One of them iterates through the cart items that is read as an Array List of objects and other is used to validate this against the static database that we maintain as a HashMap. They ar eused to implement the various validations required and also to calculate the cost of the items provided the cart is valid. </p>
 
-! [image](https://user-images.githubusercontent.com/80934688/144786263-9a2d1760-e622-4e02-b7ec-cc710e9bfa61.png)
+<img src="https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Class%20Diagram/Iterator.png" width = "500"></img>
 
 
 <h3> 2. Singleton Design Pattern </h3>
   <p> Singleton design pattern is a creational design pattern that is used to restrict the instantiation of a class and ensures only one instance of the class exists in the JVM. We use this design pattern while making a payment using the credit card and adding it to the static database maintained as an arraylist if it doesn't exist. We have one private constructor, a private static variable and a public method to restrict access while also letting the customer make a payment.</p>
+ <img src="https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Class%20Diagram/Singleton.png" width = "300">
+
+  
+ <h3> Overall Class Diagram </h3>
+ 
+ <p> Overall class diagram incorporating all the classes and their corresponding relationships </p>
+ <img src = "https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Class%20Diagram/Class_Diagram_Individual_Project.png" width = "900">
+ 
+ <h3> Screenshots </h3>
+ <p> The screen shots below capture the terminal output, corresponding output file generated along with the input file. The intermediate screenshots will be seen after these three. </p> 
+ <h4> Input1 - Sheet1.csv </h4> 
+ <img src = "https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Screenshots/Output1_Input1.png" width = "700">
+ <h4> Input2 - Sheet1.csv </h4>
+ <img src ="https://github.com/gopinathsjsu/individual-project-SindhanaKrishnamurthy/blob/main/Screenshots/Output2_Input2.png" width ="700">
+ <h4> Input3 - Sheet1.csv </h4>
+ 
+ 
+ 
+ 
